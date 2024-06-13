@@ -16,7 +16,7 @@ I am a full stack Java developer specializing in building robust web application
 -->
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Othmane</h1>
 <h3 align="center">A passionate full stack java developer from Morocco</h3>
 
