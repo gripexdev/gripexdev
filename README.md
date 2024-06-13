@@ -20,3 +20,59 @@ I am a full stack Java developer specializing in building robust web application
 - ⚡ Fun fact: ...
 
 -->
+
+
+# Hi, I'm Othmane! 👋
+
+I am a full stack Java developer specializing in building robust web applications with expertise in both frontend and backend technologies.
+
+## Skills
+
+- Java
+- Spring Boot
+- Angular
+- TypeScript
+- JavaScript
+- HTML/CSS
+- RESTful APIs
+- SQL
+- MongoDB
+- Docker
+- Kubernetes
+- Git
+- JIRA
+- Agile methodologies
+
+## Projects
+
+### E-commerce Platform (Spring Boot, Angular)
+
+A scalable e-commerce platform built with Spring Boot backend and Angular frontend. Integrated payment gateways and user authentication.
+
+[GitHub Repository](https://github.com/your-username/e-commerce-app)
+
+### Task Management App (Spring Boot, Angular, MongoDB)
+
+Designed a task management application using Spring Boot for backend REST APIs, Angular for frontend UI, and MongoDB for data storage.
+
+[Live Demo](https://your-task-app-demo.com)
+
+## Work Experience
+
+### Senior Full Stack Developer, ABC Company (2018-present)
+
+Led development teams in designing and implementing scalable solutions using Spring Boot and Angular. Spearheaded migration of legacy systems to microservices architecture, resulting in improved performance and scalability.
+
+## Education
+
+- Bachelor of Science in Computer Science, XYZ University (Graduated 20XX)
+
+## Contact Information
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+
+## Blog/Articles
+
+Check out my latest articles on [Medium](https://medium.com/@your-medium-username) for insights into Spring Boot, Angular, and full stack development.
