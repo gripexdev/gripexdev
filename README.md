@@ -8,6 +8,7 @@ I am a full stack Java developer specializing in building robust web application
 [![Gmail](https://img.shields.io/badge/Gmail-E4080A?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:othmanesadiky@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=Dev.to&logoColor=white)](https://dev.to/othmane_sadiky)
 [![Discord](https://img.shields.io/badge/Discord-0a95ff?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/gripex_)
+[![Reddit](https://img.shields.io/badge/Reddit-0a95ff?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/_Weirdless/)
 
 <!--
 - 🔭 I’m currently working on ...
