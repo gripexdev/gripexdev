@@ -4,11 +4,10 @@
 I am a full stack Java developer specializing in building robust web applications. With expertise in both frontend and backend technologies.
 
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gripexdev)
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-E4080A?style=for-the-badge&logo=Gmail&logoColor=white)
-![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=Dev.to&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-0a95ff?style=for-the-badge&logo=Discord&logoColor=white)
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Othmane-Sadiky)
+[![Gmail](https://img.shields.io/badge/Gmail-E4080A?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=Dev.to&logoColor=white)](https://dev.to/your-devto-username)
+[![Discord](https://img.shields.io/badge/Discord-0a95ff?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/your-discord-id)
 
 <!--
 - 🔭 I’m currently working on ...
