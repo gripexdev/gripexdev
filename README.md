@@ -7,7 +7,7 @@ I am a full stack Java developer specializing in building robust web application
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-E4080A?style=for-the-badge&logo=Gmail&logoColor=white)
 ![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=Dev.to&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-0a95ff?style=for-the-badge&logo=Discord&logoColor=white)
 
 
 <!--
