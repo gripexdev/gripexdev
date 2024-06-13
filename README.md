@@ -79,4 +79,4 @@ Check out my latest articles on [Medium](https://medium.com/@your-medium-usernam
 
 ## Fun Section
 
-![GIF](https://media.giphy.com/media/3o6Zt5CezIOh6y2p4w/giphy.gif)
+![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczIwdjNqcHUzMHlwbXh1Yzl5NG5ocTBobHF0ZG93NndncHRjOWppcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif)
