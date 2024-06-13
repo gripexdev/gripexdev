@@ -28,20 +28,20 @@ I am a full stack Java developer specializing in building robust web application
 
 ## Skills
 
-- Java
-- Spring Boot
-- Angular
-- TypeScript
-- JavaScript
-- HTML/CSS
-- RESTful APIs
-- SQL
-- MongoDB
-- Docker
-- Kubernetes
-- Git
-- JIRA
-- Agile methodologies
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=rest&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Projects
 
@@ -49,13 +49,13 @@ I am a full stack Java developer specializing in building robust web application
 
 A scalable e-commerce platform built with Spring Boot backend and Angular frontend. Integrated payment gateways and user authentication.
 
-[GitHub Repository](https://github.com/your-username/e-commerce-app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/e-commerce-app)
 
 ### Task Management App (Spring Boot, Angular, MongoDB)
 
 Designed a task management application using Spring Boot for backend REST APIs, Angular for frontend UI, and MongoDB for data storage.
 
-[Live Demo](https://your-task-app-demo.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=heroku&logoColor=white)](https://your-task-app-demo.com)
 
 ## Work Experience
 
@@ -69,10 +69,14 @@ Led development teams in designing and implementing scalable solutions using Spr
 
 ## Contact Information
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ## Blog/Articles
 
 Check out my latest articles on [Medium](https://medium.com/@your-medium-username) for insights into Spring Boot, Angular, and full stack development.
+
+## Fun Section
+
+![GIF](https://media.giphy.com/media/3o6Zt5CezIOh6y2p4w/giphy.gif)
