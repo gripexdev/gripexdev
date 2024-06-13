@@ -1,10 +1,15 @@
-# About me 👋
+# Hi, I am Othmane 👋
+
+
+I am a full stack Java developer specializing in building robust web applications. With expertise in both frontend and backend technologies.
+
+![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white)
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-E4080A?style=for-the-badge&logo=Gmail&logoColor=white)
+
+
 
 <!--
-**gripexdev/gripexdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
