@@ -25,7 +25,7 @@ I am a full stack Java developer specializing in building robust web application
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gripexdev&label=Profile%20views&color=0e75b6&style=flat" alt="gripexdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/othmanesadiky" target="blank"><img src="https://img.shields.io/twitter/follow/othmanesadiky?logo=twitter&style=for-the-badge" alt="othmanesadiky" /></a> </p>
+<p align="left"> <a href="https://x.com/OthmanSadiky" target="blank"><img src="https://img.shields.io/twitter/follow/othmanesadiky?logo=twitter&style=for-the-badge" alt="othmanesadiky" /></a> </p>
 
 - 🔭 I’m currently working on **my final year project**
 
