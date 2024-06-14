@@ -35,7 +35,7 @@ I am a full stack Java developer specializing in building robust web application
 
 - 📫 How to reach me **othmanesadiky@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **I can write code faster than a cheetah can run! 🐆💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
