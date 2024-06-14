@@ -16,10 +16,14 @@ I am a full stack Java developer specializing in building robust web application
 -->
 
 <!--
+&#x1F1F2;&#x1F1E6;
 [![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)](https://rishavchanda.io)
 -->
+
 <h1 align="center">Hi 👋, I'm Othmane</h1>
-<h3 align="center">A passionate full stack java developer from Morocco &#x1F1F2;&#x1F1E6;</h3>
+<h3 align="center">A passionate full stack java developer from Morocco 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco Flag" width="20" height="20"> 
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
