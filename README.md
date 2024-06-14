@@ -41,7 +41,7 @@ I am a full stack Java developer specializing in building robust web application
 <p align="left">
 <a href="https://dev.to/othmane_sadiky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="othmane_sadiky" height="30" width="40" /></a>
 <a href="https://twitter.com/othmanesadiky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="othmanesadiky" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/othmane_sadiky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="othmane_sadiky" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/othmane-sadiky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="othmane_sadiky" height="30" width="40" /></a>
 <a href="https://instagram.com/osadiky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osadiky" height="30" width="40" /></a>
 <a href="https://discord.gg/9849915959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9849915959" height="30" width="40" /></a>
 </p>
