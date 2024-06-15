@@ -1,4 +1,4 @@
-<!--# Hi, I am Othmane 👋
+<!--# H, I am Othmane 👋
 
 
 I am a full stack Java developer specializing in building robust web applications. With expertise in both frontend and backend technologies.
