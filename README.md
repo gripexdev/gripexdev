@@ -22,7 +22,7 @@ I am a full stack Java developer specializing in building robust web application
 
 <h1 align="center">Hi 👋, I'm Othmane</h1>
 <h3 align="center">A passionate full stack java developer from Morocco 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco Flag" width="25" height="15"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" alt="Morocco Flag" width="25" height="14"> 
 </h3>
 
 
