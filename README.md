@@ -36,7 +36,7 @@ I am a full stack Java developer specializing in building robust web application
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Java | Spring Boot**
 
 - 📫 How to reach me **othmanesadiky@gmail.com**
 
