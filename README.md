@@ -32,7 +32,7 @@ I am a full stack Java developer specializing in building robust web application
 
 <p align="left"> <a href="https://x.com/OthmanSadiky" target="blank"><img src="https://img.shields.io/twitter/follow/othmanesadiky?logo=x&style=for-the-badge" alt="othmanesadiky" /></a> </p>
 
-- 🔭 I’m currently working on **my final year projects**
+- 🔭 I’m currently working on **my final year project**
 
 - 🌱 I’m currently learning **Devops**
 
