@@ -32,9 +32,9 @@ I am a full stack Java developer specializing in building robust web application
 
 <p align="left"> <a href="https://x.com/OthmanSadiky" target="blank"><img src="https://img.shields.io/twitter/follow/othmanesadiky?logo=x&style=for-the-badge" alt="othmanesadiky" /></a> </p>
 
-- 🔭 I’m currently working on **Book Social Network App**
+- 🔭 I’m currently working on **Project Tracking System**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **Java | Spring Boot**
 
